@@ -17,11 +17,9 @@ export default function Home() {
       </p>
       <p>
         I will create next features:
+        1. Email integration
+        2. Broadcast integration
       </p> 
-      <ul>
-        <li>Email integration</li>
-        <li>Broadcast integration</li>
-     </ul>
     </main>
   );
 }
